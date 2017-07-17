@@ -1,0 +1,6 @@
+co\com\arrendamientosnutibara\sugarsapinterpreterrest\interfaces\IResponse.class
+co\com\arrendamientosnutibara\sugarinterpreterrest\entites\Property.class
+co\com\arrendamientosnutibara\sugarinterpreterrest\entites\Client.class
+co\com\arrendamientosnutibara\sugarsapinterpreterrest\controllers\PropertyController.class
+co\com\arrendamientosnutibara\sugarsapinterpreterrest\main\Main.class
+co\com\arrendamientosnutibara\sugarsapinterpreterrest\controllers\ClientController.class
